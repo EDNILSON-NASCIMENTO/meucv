@@ -1,6 +1,7 @@
 * styles.css */
 body {
     font-family: Arial, sans-serif; /* aqui eu defino a fonte de letra do projeto */
+   
 }
 
 .logo {
@@ -14,6 +15,7 @@ body {
 
 .container {
     margin-top: 30px;
+    font-size: 48;
 }
 
 /* Estilização do formulário */
